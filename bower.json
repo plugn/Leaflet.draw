@@ -9,20 +9,6 @@
     "dist/images/spritesheet.png"
   ],
   "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "src",
-    "doc",
-    "examples",
-    "test",
-    "build",
-    "spec",
-    "*.md",
-    "Gruntfile.js",
-    "Jakefile.js",
-    "package.json",
-    "bower.json"
-  ],
   "keywords": [
     "javascript",
     "leaflet",
